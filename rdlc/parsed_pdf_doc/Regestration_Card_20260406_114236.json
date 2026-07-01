@@ -1,0 +1,5956 @@
+{
+  "source": {
+    "file_name": "Regestration_Card.pdf",
+    "file_path": "C:\\Users\\awinp\\Documents\\rdlc\\pdf_doc\\Regestration_Card.pdf",
+    "file_size_bytes": 50782,
+    "modified_time_iso": "2026-01-26T17:21:02.000102"
+  },
+  "document": {
+    "page_count": 1,
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "Oracle BI Publisher 10.1.3.4.2",
+      "creationDate": "",
+      "modDate": "",
+      "trapped": "",
+      "encryption": null
+    }
+  },
+  "extraction": {
+    "method": "pymupdf",
+    "versions": {
+      "pymupdf": "1.27.2.2",
+      "pymupdf_version": "1.27.2.2",
+      "version_bind": "1.27.2.2",
+      "version_fitz": "1.27.2"
+    },
+    "extracted_at_iso": "2026-04-06T11:42:36.958482"
+  },
+  "ReportItems": [
+    {
+      "Name": "Textbox1",
+      "DefaultName": "Textbox1",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "REGISTRATION",
+      "FontSize": "12pt",
+      "Top": "2.25411cm",
+      "Left": "2.22924cm",
+      "Height": "0.3900cm",
+      "Width": "3.19532cm",
+      "ZIndex": 1,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox2",
+      "DefaultName": "Textbox2",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "C/I Clerk",
+      "FontSize": "9pt",
+      "Top": "2.24042cm",
+      "Left": "6.00604cm",
+      "Height": "0.3900cm",
+      "Width": "1.23380cm",
+      "ZIndex": 2,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox3",
+      "DefaultName": "Textbox3",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "SAM000056@GHGBHE",
+      "FontSize": "9pt",
+      "Top": "2.66580cm",
+      "Left": "6.00604cm",
+      "Height": "0.3900cm",
+      "Width": "3.44360cm",
+      "ZIndex": 3,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox4",
+      "DefaultName": "Textbox4",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Update Clerk",
+      "FontSize": "9pt",
+      "Top": "2.24042cm",
+      "Left": "10.44399cm",
+      "Height": "0.3900cm",
+      "Width": "1.85198cm",
+      "ZIndex": 4,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox5",
+      "DefaultName": "Textbox5",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "SAM000056@G",
+      "FontSize": "9pt",
+      "Top": "2.66580cm",
+      "Left": "10.44399cm",
+      "Height": "0.3900cm",
+      "Width": "2.31553cm",
+      "ZIndex": 5,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox6",
+      "DefaultName": "Textbox6",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "HGBHE",
+      "FontSize": "9pt",
+      "Top": "3.09118cm",
+      "Left": "10.44399cm",
+      "Height": "0.3900cm",
+      "Width": "1.12808cm",
+      "ZIndex": 6,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox7",
+      "DefaultName": "Textbox7",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Wakeup Call",
+      "FontSize": "9pt",
+      "Top": "2.24042cm",
+      "Left": "13.25210cm",
+      "Height": "0.3900cm",
+      "Width": "1.88690cm",
+      "ZIndex": 7,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox8",
+      "DefaultName": "Textbox8",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Res. No.",
+      "FontSize": "9pt",
+      "Top": "2.24042cm",
+      "Left": "16.47119cm",
+      "Height": "0.3900cm",
+      "Width": "1.23412cm",
+      "ZIndex": 8,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox9",
+      "DefaultName": "Textbox9",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "371874136",
+      "FontSize": "9pt",
+      "Top": "2.66580cm",
+      "Left": "16.47119cm",
+      "Height": "0.3900cm",
+      "Width": "1.58877cm",
+      "ZIndex": 9,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox10",
+      "DefaultName": "Textbox10",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Surname",
+      "FontSize": "8pt",
+      "Top": "3.53416cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "1.14469cm",
+      "ZIndex": 10,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox11",
+      "DefaultName": "Textbox11",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Ali",
+      "FontSize": "8pt",
+      "Top": "3.91227cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "0.39000cm",
+      "ZIndex": 11,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox12",
+      "DefaultName": "Textbox12",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "First Name",
+      "FontSize": "8pt",
+      "Top": "3.53416cm",
+      "Left": "6.00604cm",
+      "Height": "0.3900cm",
+      "Width": "1.37894cm",
+      "ZIndex": 12,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox13",
+      "DefaultName": "Textbox13",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Alzamil",
+      "FontSize": "8pt",
+      "Top": "3.91227cm",
+      "Left": "6.00604cm",
+      "Height": "0.3900cm",
+      "Width": "0.91000cm",
+      "ZIndex": 13,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox14",
+      "DefaultName": "Textbox14",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Middle Name",
+      "FontSize": "8pt",
+      "Top": "3.53416cm",
+      "Left": "10.44399cm",
+      "Height": "0.3900cm",
+      "Width": "1.66201cm",
+      "ZIndex": 14,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox15",
+      "DefaultName": "Textbox15",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Guests",
+      "FontSize": "8pt",
+      "Top": "3.53416cm",
+      "Left": "13.25210cm",
+      "Height": "0.3900cm",
+      "Width": "0.89352cm",
+      "ZIndex": 15,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox16",
+      "DefaultName": "Textbox16",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "4 /1",
+      "FontSize": "10pt",
+      "Top": "3.91234cm",
+      "Left": "13.25210cm",
+      "Height": "0.3900cm",
+      "Width": "0.52000cm",
+      "ZIndex": 16,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox17",
+      "DefaultName": "Textbox17",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Room Type",
+      "FontSize": "8pt",
+      "Top": "3.53416cm",
+      "Left": "16.47119cm",
+      "Height": "0.3900cm",
+      "Width": "1.45796cm",
+      "ZIndex": 17,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox18",
+      "DefaultName": "Textbox18",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "AP2",
+      "FontSize": "8pt",
+      "Top": "3.91227cm",
+      "Left": "16.47119cm",
+      "Height": "0.3900cm",
+      "Width": "0.53284cm",
+      "ZIndex": 18,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox19",
+      "DefaultName": "Textbox19",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Arrival Date 28-11-25",
+      "FontSize": "8pt",
+      "Top": "4.40256cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "2.73000cm",
+      "ZIndex": 19,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox20",
+      "DefaultName": "Textbox20",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Departure Date",
+      "FontSize": "8pt",
+      "Top": "4.40256cm",
+      "Left": "6.00604cm",
+      "Height": "0.3900cm",
+      "Width": "1.92842cm",
+      "ZIndex": 20,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox21",
+      "DefaultName": "Textbox21",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "30-11-25",
+      "FontSize": "8pt",
+      "Top": "4.78067cm",
+      "Left": "6.00604cm",
+      "Height": "0.3900cm",
+      "Width": "1.12945cm",
+      "ZIndex": 21,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox22",
+      "DefaultName": "Textbox22",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Room Number",
+      "FontSize": "8pt",
+      "Top": "4.40256cm",
+      "Left": "10.44399cm",
+      "Height": "0.3900cm",
+      "Width": "1.83444cm",
+      "ZIndex": 22,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox23",
+      "DefaultName": "Textbox23",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Daily Rate (BHD)",
+      "FontSize": "8pt",
+      "Top": "4.40256cm",
+      "Left": "13.25210cm",
+      "Height": "0.3900cm",
+      "Width": "2.16267cm",
+      "ZIndex": 23,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox24",
+      "DefaultName": "Textbox24",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "115.000",
+      "FontSize": "8pt",
+      "Top": "4.78067cm",
+      "Left": "13.25210cm",
+      "Height": "0.3900cm",
+      "Width": "1.01967cm",
+      "ZIndex": 24,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox25",
+      "DefaultName": "Textbox25",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Check Out Time:",
+      "FontSize": "8pt",
+      "Top": "5.17641cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "2.11554cm",
+      "ZIndex": 25,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox26",
+      "DefaultName": "Textbox26",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "00:00",
+      "FontSize": "8pt",
+      "Top": "5.17641cm",
+      "Left": "6.00604cm",
+      "Height": "0.3900cm",
+      "Width": "0.70584cm",
+      "ZIndex": 26,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox27",
+      "DefaultName": "Textbox27",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Purpose of Visit",
+      "FontSize": "8pt",
+      "Top": "5.17641cm",
+      "Left": "10.44399cm",
+      "Height": "0.3900cm",
+      "Width": "2.08000cm",
+      "ZIndex": 27,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox28",
+      "DefaultName": "Textbox28",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Conference meeting, Exhibition",
+      "FontSize": "8pt",
+      "Top": "5.17641cm",
+      "Left": "13.93119cm",
+      "Height": "0.3900cm",
+      "Width": "3.91950cm",
+      "ZIndex": 28,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox29",
+      "DefaultName": "Textbox29",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Membership Program Number",
+      "FontSize": "8pt",
+      "Top": "5.57216cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "3.79420cm",
+      "ZIndex": 29,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox30",
+      "DefaultName": "Textbox30",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Leisure & Vacation",
+      "FontSize": "8pt",
+      "Top": "5.57216cm",
+      "Left": "13.93119cm",
+      "Height": "0.3900cm",
+      "Width": "2.36728cm",
+      "ZIndex": 30,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox31",
+      "DefaultName": "Textbox31",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Other Reasons",
+      "FontSize": "8pt",
+      "Top": "6.18070cm",
+      "Left": "13.93119cm",
+      "Height": "0.3900cm",
+      "Width": "1.89710cm",
+      "ZIndex": 31,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox32",
+      "DefaultName": "Textbox32",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Home Address",
+      "FontSize": "8pt",
+      "Top": "6.78924cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "1.94395cm",
+      "ZIndex": 32,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox33",
+      "DefaultName": "Textbox33",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Street",
+      "FontSize": "8pt",
+      "Top": "7.39778cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "0.83030cm",
+      "ZIndex": 33,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox34",
+      "DefaultName": "Textbox34",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "City",
+      "FontSize": "8pt",
+      "Top": "8.00633cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "0.56388cm",
+      "ZIndex": 34,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox35",
+      "DefaultName": "Textbox35",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "State",
+      "FontSize": "8pt",
+      "Top": "8.00633cm",
+      "Left": "7.31308cm",
+      "Height": "0.3900cm",
+      "Width": "0.65814cm",
+      "ZIndex": 35,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox36",
+      "DefaultName": "Textbox36",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Zip Code",
+      "FontSize": "8pt",
+      "Top": "8.00633cm",
+      "Left": "13.50257cm",
+      "Height": "0.3900cm",
+      "Width": "1.14441cm",
+      "ZIndex": 36,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox37",
+      "DefaultName": "Textbox37",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Country / Resident",
+      "FontSize": "8pt",
+      "Top": "8.61487cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "2.41385cm",
+      "ZIndex": 37,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox38",
+      "DefaultName": "Textbox38",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Nationality",
+      "FontSize": "8pt",
+      "Top": "8.61487cm",
+      "Left": "7.31308cm",
+      "Height": "0.3900cm",
+      "Width": "1.43000cm",
+      "ZIndex": 38,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox39",
+      "DefaultName": "Textbox39",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Email",
+      "FontSize": "8pt",
+      "Top": "8.61487cm",
+      "Left": "13.50257cm",
+      "Height": "0.3900cm",
+      "Width": "0.78345cm",
+      "ZIndex": 39,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox40",
+      "DefaultName": "Textbox40",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Telephone Number 0",
+      "FontSize": "8pt",
+      "Top": "9.22341cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "2.65007cm",
+      "ZIndex": 40,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox41",
+      "DefaultName": "Textbox41",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Passport Number / Identity Card",
+      "FontSize": "8pt",
+      "Top": "9.22341cm",
+      "Left": "7.31308cm",
+      "Height": "0.3900cm",
+      "Width": "4.03000cm",
+      "ZIndex": 41,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox42",
+      "DefaultName": "Textbox42",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Place of Issue",
+      "FontSize": "8pt",
+      "Top": "9.22341cm",
+      "Left": "13.50257cm",
+      "Height": "0.3900cm",
+      "Width": "1.82000cm",
+      "ZIndex": 42,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox43",
+      "DefaultName": "Textbox43",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Company",
+      "FontSize": "8pt",
+      "Top": "9.83195cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "1.28580cm",
+      "ZIndex": 43,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox44",
+      "DefaultName": "Textbox44",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Date of Birth",
+      "FontSize": "8pt",
+      "Top": "9.83195cm",
+      "Left": "13.50257cm",
+      "Height": "0.3900cm",
+      "Width": "1.69000cm",
+      "ZIndex": 44,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox45",
+      "DefaultName": "Textbox45",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Payment Method",
+      "FontSize": "8pt",
+      "Top": "10.44049cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "2.13219cm",
+      "ZIndex": 45,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox46",
+      "DefaultName": "Textbox46",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Cash",
+      "FontSize": "8pt",
+      "Top": "11.04903cm",
+      "Left": "2.70581cm",
+      "Height": "0.3900cm",
+      "Width": "0.65871cm",
+      "ZIndex": 46,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox47",
+      "DefaultName": "Textbox47",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Visa",
+      "FontSize": "8pt",
+      "Top": "11.04903cm",
+      "Left": "5.56154cm",
+      "Height": "0.3900cm",
+      "Width": "0.54864cm",
+      "ZIndex": 47,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox48",
+      "DefaultName": "Textbox48",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Master",
+      "FontSize": "8pt",
+      "Top": "11.04903cm",
+      "Left": "8.52135cm",
+      "Height": "0.3900cm",
+      "Width": "0.86219cm",
+      "ZIndex": 48,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox49",
+      "DefaultName": "Textbox49",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "American Express",
+      "FontSize": "8pt",
+      "Top": "11.04903cm",
+      "Left": "11.45646cm",
+      "Height": "0.3900cm",
+      "Width": "2.28882cm",
+      "ZIndex": 49,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox50",
+      "DefaultName": "Textbox50",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Diners",
+      "FontSize": "8pt",
+      "Top": "11.04903cm",
+      "Left": "15.17650cm",
+      "Height": "0.3900cm",
+      "Width": "0.89352cm",
+      "ZIndex": 50,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox51",
+      "DefaultName": "Textbox51",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Others",
+      "FontSize": "8pt",
+      "Top": "11.04903cm",
+      "Left": "17.34785cm",
+      "Height": "0.3900cm",
+      "Width": "0.84638cm",
+      "ZIndex": 51,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox52",
+      "DefaultName": "Textbox52",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Others:",
+      "FontSize": "8pt",
+      "Top": "11.65758cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "1.00274cm",
+      "ZIndex": 52,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox53",
+      "DefaultName": "Textbox53",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Terms and Conditions:",
+      "FontSize": "8pt",
+      "Top": "12.27519cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "3.07001cm",
+      "ZIndex": 53,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox54",
+      "DefaultName": "Textbox54",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "I/We confirm the accuracy of the above information and agree to the following terms.",
+      "FontSize": "8pt",
+      "Top": "12.59064cm",
+      "Left": "2.03200cm",
+      "Height": "0.3900cm",
+      "Width": "10.92000cm",
+      "ZIndex": 54,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox55",
+      "DefaultName": "Textbox55",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "1.",
+      "FontSize": "8pt",
+      "Top": "12.96875cm",
+      "Left": "2.66700cm",
+      "Height": "0.3900cm",
+      "Width": "0.26000cm",
+      "ZIndex": 55,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox56",
+      "DefaultName": "Textbox56",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Check-in is at 3.00 pm, and check-out is at 12.00 pm. Early check-in/late check-out may incur additional fees.",
+      "FontSize": "8pt",
+      "Top": "12.96875cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "14.30000cm",
+      "ZIndex": 56,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox57",
+      "DefaultName": "Textbox57",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "2.",
+      "FontSize": "8pt",
+      "Top": "13.34685cm",
+      "Left": "2.66700cm",
+      "Height": "0.3900cm",
+      "Width": "0.26000cm",
+      "ZIndex": 57,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox58",
+      "DefaultName": "Textbox58",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Extended stays are subject to availability and current rates.",
+      "FontSize": "8pt",
+      "Top": "13.34685cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "7.93000cm",
+      "ZIndex": 58,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox59",
+      "DefaultName": "Textbox59",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "3.",
+      "FontSize": "8pt",
+      "Top": "13.72496cm",
+      "Left": "2.66700cm",
+      "Height": "0.3900cm",
+      "Width": "0.26000cm",
+      "ZIndex": 59,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox60",
+      "DefaultName": "Textbox60",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Early departure may result in a one-night charge or more, depending on booking terms.",
+      "FontSize": "8pt",
+      "Top": "13.72496cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "11.05000cm",
+      "ZIndex": 60,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox61",
+      "DefaultName": "Textbox61",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "4.",
+      "FontSize": "8pt",
+      "Top": "14.10307cm",
+      "Left": "2.66700cm",
+      "Height": "0.3900cm",
+      "Width": "0.26000cm",
+      "ZIndex": 61,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox62",
+      "DefaultName": "Textbox62",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "The Hotel is not liable for valuables that have misplaced, stolen or left in guest rooms, meeting rooms, public areas, family or hotel",
+      "FontSize": "8pt",
+      "Top": "14.10307cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "17.42000cm",
+      "ZIndex": 62,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox63",
+      "DefaultName": "Textbox63",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "vehicles.",
+      "FontSize": "8pt",
+      "Top": "14.48117cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "1.17574cm",
+      "ZIndex": 63,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox64",
+      "DefaultName": "Textbox64",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "5.",
+      "FontSize": "8pt",
+      "Top": "14.85928cm",
+      "Left": "2.66700cm",
+      "Height": "0.3900cm",
+      "Width": "0.26000cm",
+      "ZIndex": 64,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox65",
+      "DefaultName": "Textbox65",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "I/We agree to follow Hotel policies and all applicable laws in Bahrain.",
+      "FontSize": "8pt",
+      "Top": "14.85928cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "9.23000cm",
+      "ZIndex": 65,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox66",
+      "DefaultName": "Textbox66",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "6.",
+      "FontSize": "8pt",
+      "Top": "15.23739cm",
+      "Left": "2.66700cm",
+      "Height": "0.3900cm",
+      "Width": "0.26000cm",
+      "ZIndex": 66,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox67",
+      "DefaultName": "Textbox67",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "I/We are liable for damage caused to the hotel or guest property caused by myself/ourselves or my/our dependents, guests or",
+      "FontSize": "8pt",
+      "Top": "15.23739cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "15.99000cm",
+      "ZIndex": 67,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox68",
+      "DefaultName": "Textbox68",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "visitor. Smoking in non-smoking rooms will result in a cleaning fee.",
+      "FontSize": "8pt",
+      "Top": "15.61550cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "8.84000cm",
+      "ZIndex": 68,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox69",
+      "DefaultName": "Textbox69",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "7.",
+      "FontSize": "8pt",
+      "Top": "15.99360cm",
+      "Left": "2.66700cm",
+      "Height": "0.3900cm",
+      "Width": "0.26000cm",
+      "ZIndex": 69,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox70",
+      "DefaultName": "Textbox70",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "All charges incurred during my/our stay, including room rate, taxes, damages, services or charges posted to the room folio, must",
+      "FontSize": "8pt",
+      "Top": "15.99360cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "16.64000cm",
+      "ZIndex": 70,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox71",
+      "DefaultName": "Textbox71",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "be settled before check-out. I/We authorize the use of the credit card on file for payment.",
+      "FontSize": "8pt",
+      "Top": "16.37171cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "11.83000cm",
+      "ZIndex": 71,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox72",
+      "DefaultName": "Textbox72",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "8.",
+      "FontSize": "8pt",
+      "Top": "16.74982cm",
+      "Left": "2.66700cm",
+      "Height": "0.3900cm",
+      "Width": "0.26000cm",
+      "ZIndex": 72,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox73",
+      "DefaultName": "Textbox73",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Personal cheques are not accepted.",
+      "FontSize": "8pt",
+      "Top": "16.74982cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "4.59401cm",
+      "ZIndex": 73,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox74",
+      "DefaultName": "Textbox74",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "9.",
+      "FontSize": "8pt",
+      "Top": "17.12793cm",
+      "Left": "2.66700cm",
+      "Height": "0.3900cm",
+      "Width": "0.26000cm",
+      "ZIndex": 74,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox75",
+      "DefaultName": "Textbox75",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "I/We remain personally liable for all charges incurred during my/our stay, even if a third party is billed.",
+      "FontSize": "8pt",
+      "Top": "17.12793cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "13.91000cm",
+      "ZIndex": 75,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox76",
+      "DefaultName": "Textbox76",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "10.",
+      "FontSize": "8pt",
+      "Top": "17.50603cm",
+      "Left": "2.66700cm",
+      "Height": "0.3900cm",
+      "Width": "0.39201cm",
+      "ZIndex": 76,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox77",
+      "DefaultName": "Textbox77",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "I/We are solely responsible for supervising minors in my/our care and will not hold the Hotel liable for any incidents that may arise",
+      "FontSize": "8pt",
+      "Top": "17.50603cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "17.29000cm",
+      "ZIndex": 77,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox78",
+      "DefaultName": "Textbox78",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "from improper use of facilities.",
+      "FontSize": "8pt",
+      "Top": "17.88418cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "4.16000cm",
+      "ZIndex": 78,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox79",
+      "DefaultName": "Textbox79",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "11.",
+      "FontSize": "8pt",
+      "Top": "18.26228cm",
+      "Left": "2.66700cm",
+      "Height": "0.3900cm",
+      "Width": "0.39201cm",
+      "ZIndex": 79,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox80",
+      "DefaultName": "Textbox80",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "I/We consent to the Hotel€™s collection, storage, use and sharing of my/our personal information for reservation processing,",
+      "FontSize": "8pt",
+      "Top": "18.26228cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "16.12000cm",
+      "ZIndex": 80,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox81",
+      "DefaultName": "Textbox81",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "services, communication about my/our stay, promotions and future offers, improving Hotel facilities and compliance with legal",
+      "FontSize": "8pt",
+      "Top": "18.64035cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "16.25000cm",
+      "ZIndex": 81,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox82",
+      "DefaultName": "Textbox82",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "requirements. This includes sharing information with affiliates, subsidiaries and partners. All personal information will be handled",
+      "FontSize": "8pt",
+      "Top": "19.01850cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "17.16000cm",
+      "ZIndex": 82,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox83",
+      "DefaultName": "Textbox83",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "in line with our Privacy Policy available on our website.",
+      "FontSize": "8pt",
+      "Top": "19.39660cm",
+      "Left": "3.30200cm",
+      "Height": "0.3900cm",
+      "Width": "7.41000cm",
+      "ZIndex": 83,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox84",
+      "DefaultName": "Textbox84",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Check here if I/we do not wish to receive these promotional communications.",
+      "FontSize": "8pt",
+      "Top": "19.79231cm",
+      "Left": "2.70581cm",
+      "Height": "0.3900cm",
+      "Width": "9.75000cm",
+      "ZIndex": 84,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox85",
+      "DefaultName": "Textbox85",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "By signing below, I/we confirm that I/we have read, understood and agreed to these terms and conditions.",
+      "FontSize": "8pt",
+      "Top": "20.17046cm",
+      "Left": "2.70581cm",
+      "Height": "0.3900cm",
+      "Width": "13.52000cm",
+      "ZIndex": 85,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox86",
+      "DefaultName": "Textbox86",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Guest Signature",
+      "FontSize": "8pt",
+      "Top": "21.13065cm",
+      "Left": "3.75599cm",
+      "Height": "0.3900cm",
+      "Width": "2.03793cm",
+      "ZIndex": 86,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox87",
+      "DefaultName": "Textbox87",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "GSO Signature",
+      "FontSize": "8pt",
+      "Top": "21.13065cm",
+      "Left": "9.90688cm",
+      "Height": "0.3900cm",
+      "Width": "1.91206cm",
+      "ZIndex": 87,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox88",
+      "DefaultName": "Textbox88",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Duty Manager Signature",
+      "FontSize": "8pt",
+      "Top": "21.13065cm",
+      "Left": "15.35352cm",
+      "Height": "0.3900cm",
+      "Width": "3.05731cm",
+      "ZIndex": 88,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    },
+    {
+      "Name": "Textbox89",
+      "DefaultName": "Textbox89",
+      "CanGrow": true,
+      "KeepTogether": true,
+      "Text": "Enjoy your stay with us!",
+      "FontSize": "10pt",
+      "Top": "21.53779cm",
+      "Left": "8.66475cm",
+      "Height": "0.3900cm",
+      "Width": "4.05306cm",
+      "ZIndex": 89,
+      "Border": "None",
+      "PaddingLeft": "1pt",
+      "PaddingRight": "1pt",
+      "PaddingTop": "1pt",
+      "PaddingBottom": "1pt"
+    }
+  ],
+  "text": {
+    "full_text": " \nREGISTRATION\nC/I Clerk\nSAM000056@GHGBHE\nUpdate Clerk\nSAM000056@G\nHGBHE\nWakeup Call \nRes. No.\n371874136\nSurname\nAli\nFirst Name\nAlzamil\nMiddle Name\nGuests\n4 /1\nRoom Type\nAP2\nArrival Date 28-11-25\nDeparture Date\n30-11-25\nRoom Number\nDaily Rate (BHD)\n115.000\nCheck Out Time:\n00:00\nPurpose of Visit\nConference meeting, Exhibition\nMembership Program Number\nLeisure & Vacation\nOther Reasons\nHome Address \nStreet \nCity \nState\nZip Code\nCountry / Resident \nNationality \nEmail \nTelephone Number 0\nPassport Number / Identity Card\nPlace of Issue\nCompany \nDate of Birth \nPayment Method\nCash\nVisa\nMaster\nAmerican Express\nDiners \nOthers\nOthers: \nTerms and Conditions:\nI/We confirm the accuracy of the above information and agree to the following terms. \n1.\nCheck-in is at 3.00 pm, and check-out is at 12.00 pm. Early check-in/late check-out may incur additional fees.\n2.\nExtended stays are subject to availability and current rates. \n3.\nEarly departure may result in a one-night charge or more, depending on booking terms.\n4.\nThe Hotel is not liable for valuables that have misplaced, stolen or left in guest rooms, meeting rooms, public areas, family or hotel\nvehicles. \n5.\nI/We agree to follow Hotel policies and all applicable laws in Bahrain.\n6.\nI/We are liable for damage caused to the hotel or guest property caused by myself/ourselves or my/our dependents, guests or \nvisitor. Smoking in non-smoking rooms will result in a cleaning fee.\n7.\nAll charges incurred during my/our stay, including room rate, taxes, damages, services or charges posted to the room folio, must \nbe settled before check-out. I/We authorize the use of the credit card on file for payment.\n8.\nPersonal cheques are not accepted. \n9.\nI/We remain personally liable for all charges incurred during my/our stay, even if a third party is billed.\n10.\nI/We are solely responsible for supervising minors in my/our care and will not hold the Hotel liable for any incidents that may arise \nfrom improper use of facilities.\n11.\nI/We consent to the Hotel€™s collection, storage, use and sharing of my/our personal information for reservation processing, \nservices, communication about my/our stay, promotions and future offers, improving Hotel facilities and compliance with legal \nrequirements. This includes sharing information with affiliates, subsidiaries and partners. All personal information will be handled \nin line with our Privacy Policy available on our website.\nCheck here if I/we do not wish to receive these promotional communications. \nBy signing below, I/we confirm that I/we have read, understood and agreed to these terms and conditions.\nGuest Signature\nGSO Signature\nDuty Manager Signature\nEnjoy your stay with us!\n",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": " \nREGISTRATION\nC/I Clerk\nSAM000056@GHGBHE\nUpdate Clerk\nSAM000056@G\nHGBHE\nWakeup Call \nRes. No.\n371874136\nSurname\nAli\nFirst Name\nAlzamil\nMiddle Name\nGuests\n4 /1\nRoom Type\nAP2\nArrival Date 28-11-25\nDeparture Date\n30-11-25\nRoom Number\nDaily Rate (BHD)\n115.000\nCheck Out Time:\n00:00\nPurpose of Visit\nConference meeting, Exhibition\nMembership Program Number\nLeisure & Vacation\nOther Reasons\nHome Address \nStreet \nCity \nState\nZip Code\nCountry / Resident \nNationality \nEmail \nTelephone Number 0\nPassport Number / Identity Card\nPlace of Issue\nCompany \nDate of Birth \nPayment Method\nCash\nVisa\nMaster\nAmerican Express\nDiners \nOthers\nOthers: \nTerms and Conditions:\nI/We confirm the accuracy of the above information and agree to the following terms. \n1.\nCheck-in is at 3.00 pm, and check-out is at 12.00 pm. Early check-in/late check-out may incur additional fees.\n2.\nExtended stays are subject to availability and current rates. \n3.\nEarly departure may result in a one-night charge or more, depending on booking terms.\n4.\nThe Hotel is not liable for valuables that have misplaced, stolen or left in guest rooms, meeting rooms, public areas, family or hotel\nvehicles. \n5.\nI/We agree to follow Hotel policies and all applicable laws in Bahrain.\n6.\nI/We are liable for damage caused to the hotel or guest property caused by myself/ourselves or my/our dependents, guests or \nvisitor. Smoking in non-smoking rooms will result in a cleaning fee.\n7.\nAll charges incurred during my/our stay, including room rate, taxes, damages, services or charges posted to the room folio, must \nbe settled before check-out. I/We authorize the use of the credit card on file for payment.\n8.\nPersonal cheques are not accepted. \n9.\nI/We remain personally liable for all charges incurred during my/our stay, even if a third party is billed.\n10.\nI/We are solely responsible for supervising minors in my/our care and will not hold the Hotel liable for any incidents that may arise \nfrom improper use of facilities.\n11.\nI/We consent to the Hotel€™s collection, storage, use and sharing of my/our personal information for reservation processing, \nservices, communication about my/our stay, promotions and future offers, improving Hotel facilities and compliance with legal \nrequirements. This includes sharing information with affiliates, subsidiaries and partners. All personal information will be handled \nin line with our Privacy Policy available on our website.\nCheck here if I/we do not wish to receive these promotional communications. \nBy signing below, I/we confirm that I/we have read, understood and agreed to these terms and conditions.\nGuest Signature\nGSO Signature\nDuty Manager Signature\nEnjoy your stay with us!\n",
+        "text_blocks": [
+          {
+            "block_index": 0,
+            "source_block_index": 0,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              301.7359924316406,
+              729.2200317382812,
+              304.5059814453125,
+              742.6000366210938
+            ],
+            "text": " ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 10.0,
+              "max_font_size": 10.0
+            },
+            "spans": [
+              {
+                "text": " ",
+                "bbox": [
+                  301.7359924316406,
+                  729.2200317382812,
+                  304.5059814453125,
+                  742.6000366210938
+                ],
+                "font": "Arial Unicode MS",
+                "size": 10.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  301.7359924316406,
+                  739.9000244140625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 1,
+            "source_block_index": 1,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              63.191001892089844,
+              63.89598083496094,
+              153.7670135498047,
+              77.28797912597656
+            ],
+            "text": "REGISTRATION",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Bold"
+              ],
+              "min_font_size": 12.0,
+              "max_font_size": 12.0
+            },
+            "spans": [
+              {
+                "text": "REGISTRATION",
+                "bbox": [
+                  63.191001892089844,
+                  63.89598083496094,
+                  153.7670135498047,
+                  77.28797912597656
+                ],
+                "font": "Arial Bold",
+                "size": 12.0,
+                "flags": 20,
+                "color": 0,
+                "ascender": 0.9049999713897705,
+                "descender": -0.210999995470047,
+                "origin": [
+                  63.191001892089844,
+                  74.7559814453125
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 2,
+            "source_block_index": 1,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              170.25,
+              63.50799560546875,
+              205.22398376464844,
+              75.54999542236328
+            ],
+            "text": "C/I Clerk",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 9.0,
+              "max_font_size": 9.0
+            },
+            "spans": [
+              {
+                "text": "C/I Clerk",
+                "bbox": [
+                  170.25,
+                  63.50799560546875,
+                  205.22398376464844,
+                  75.54999542236328
+                ],
+                "font": "Arial Unicode MS",
+                "size": 9.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  170.25,
+                  73.1199951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 3,
+            "source_block_index": 1,
+            "source_line_index": 2,
+            "type": 0,
+            "bbox": [
+              170.25,
+              75.56597900390625,
+              267.86395263671875,
+              87.60797882080078
+            ],
+            "text": "SAM000056@GHGBHE",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 9.0,
+              "max_font_size": 9.0
+            },
+            "spans": [
+              {
+                "text": "SAM000056@GHGBHE",
+                "bbox": [
+                  170.25,
+                  75.56597900390625,
+                  267.86395263671875,
+                  87.60797882080078
+                ],
+                "font": "Arial Unicode MS",
+                "size": 9.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  170.25,
+                  85.177978515625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 4,
+            "source_block_index": 1,
+            "source_line_index": 3,
+            "type": 0,
+            "bbox": [
+              296.04998779296875,
+              63.50799560546875,
+              348.5469665527344,
+              75.54999542236328
+            ],
+            "text": "Update Clerk",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 9.0,
+              "max_font_size": 9.0
+            },
+            "spans": [
+              {
+                "text": "Update Clerk",
+                "bbox": [
+                  296.04998779296875,
+                  63.50799560546875,
+                  348.5469665527344,
+                  75.54999542236328
+                ],
+                "font": "Arial Unicode MS",
+                "size": 9.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  296.04998779296875,
+                  73.1199951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 5,
+            "source_block_index": 1,
+            "source_line_index": 4,
+            "type": 0,
+            "bbox": [
+              296.04998779296875,
+              75.56597900390625,
+              361.6869812011719,
+              87.60797882080078
+            ],
+            "text": "SAM000056@G",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 9.0,
+              "max_font_size": 9.0
+            },
+            "spans": [
+              {
+                "text": "SAM000056@G",
+                "bbox": [
+                  296.04998779296875,
+                  75.56597900390625,
+                  361.6869812011719,
+                  87.60797882080078
+                ],
+                "font": "Arial Unicode MS",
+                "size": 9.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  296.04998779296875,
+                  85.177978515625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 6,
+            "source_block_index": 1,
+            "source_line_index": 5,
+            "type": 0,
+            "bbox": [
+              296.04998779296875,
+              87.6240234375,
+              328.0269470214844,
+              99.66602325439453
+            ],
+            "text": "HGBHE",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 9.0,
+              "max_font_size": 9.0
+            },
+            "spans": [
+              {
+                "text": "HGBHE",
+                "bbox": [
+                  296.04998779296875,
+                  87.6240234375,
+                  328.0269470214844,
+                  99.66602325439453
+                ],
+                "font": "Arial Unicode MS",
+                "size": 9.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  296.04998779296875,
+                  97.23602294921875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 7,
+            "source_block_index": 2,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              375.6499938964844,
+              63.50799560546875,
+              429.136962890625,
+              75.54999542236328
+            ],
+            "text": "Wakeup Call ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 9.0,
+              "max_font_size": 9.0
+            },
+            "spans": [
+              {
+                "text": "Wakeup Call ",
+                "bbox": [
+                  375.6499938964844,
+                  63.50799560546875,
+                  429.136962890625,
+                  75.54999542236328
+                ],
+                "font": "Arial Unicode MS",
+                "size": 9.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  375.6499938964844,
+                  73.1199951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 8,
+            "source_block_index": 2,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              466.8999938964844,
+              63.50799560546875,
+              501.88299560546875,
+              75.54999542236328
+            ],
+            "text": "Res. No.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 9.0,
+              "max_font_size": 9.0
+            },
+            "spans": [
+              {
+                "text": "Res. No.",
+                "bbox": [
+                  466.8999938964844,
+                  63.50799560546875,
+                  501.88299560546875,
+                  75.54999542236328
+                ],
+                "font": "Arial Unicode MS",
+                "size": 9.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  466.8999938964844,
+                  73.1199951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 9,
+            "source_block_index": 2,
+            "source_line_index": 2,
+            "type": 0,
+            "bbox": [
+              466.8999938964844,
+              75.56597900390625,
+              511.93597412109375,
+              87.60797882080078
+            ],
+            "text": "371874136",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 9.0,
+              "max_font_size": 9.0
+            },
+            "spans": [
+              {
+                "text": "371874136",
+                "bbox": [
+                  466.8999938964844,
+                  75.56597900390625,
+                  511.93597412109375,
+                  87.60797882080078
+                ],
+                "font": "Arial Unicode MS",
+                "size": 9.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  466.8999938964844,
+                  85.177978515625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 10,
+            "source_block_index": 3,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              100.18097686767578,
+              90.0479965209961,
+              110.88497924804688
+            ],
+            "text": "Surname",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Surname",
+                "bbox": [
+                  57.599998474121094,
+                  100.18097686767578,
+                  90.0479965209961,
+                  110.88497924804688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  108.7249755859375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 11,
+            "source_block_index": 3,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              110.89899444580078,
+              66.47999572753906,
+              121.60299682617188
+            ],
+            "text": "Ali",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Ali",
+                "bbox": [
+                  57.599998474121094,
+                  110.89899444580078,
+                  66.47999572753906,
+                  121.60299682617188
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  119.4429931640625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 12,
+            "source_block_index": 3,
+            "source_line_index": 2,
+            "type": 0,
+            "bbox": [
+              170.25,
+              100.18097686767578,
+              209.3380126953125,
+              110.88497924804688
+            ],
+            "text": "First Name",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "First Name",
+                "bbox": [
+                  170.25,
+                  100.18097686767578,
+                  209.3380126953125,
+                  110.88497924804688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  170.25,
+                  108.7249755859375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 13,
+            "source_block_index": 3,
+            "source_line_index": 3,
+            "type": 0,
+            "bbox": [
+              170.25,
+              110.89899444580078,
+              196.01800537109375,
+              121.60299682617188
+            ],
+            "text": "Alzamil",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Alzamil",
+                "bbox": [
+                  170.25,
+                  110.89899444580078,
+                  196.01800537109375,
+                  121.60299682617188
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  170.25,
+                  119.4429931640625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 14,
+            "source_block_index": 3,
+            "source_line_index": 4,
+            "type": 0,
+            "bbox": [
+              296.04998779296875,
+              100.18097686767578,
+              343.1619873046875,
+              110.88497924804688
+            ],
+            "text": "Middle Name",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Middle Name",
+                "bbox": [
+                  296.04998779296875,
+                  100.18097686767578,
+                  343.1619873046875,
+                  110.88497924804688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  296.04998779296875,
+                  108.7249755859375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 15,
+            "source_block_index": 3,
+            "source_line_index": 5,
+            "type": 0,
+            "bbox": [
+              375.6499938964844,
+              100.18097686767578,
+              400.9779968261719,
+              110.88497924804688
+            ],
+            "text": "Guests",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Guests",
+                "bbox": [
+                  375.6499938964844,
+                  100.18097686767578,
+                  400.9779968261719,
+                  110.88497924804688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  375.6499938964844,
+                  108.7249755859375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 16,
+            "source_block_index": 4,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              375.6499938964844,
+              110.90099334716797,
+              390.1029968261719,
+              124.28099060058594
+            ],
+            "text": "4 /1",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 3,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 10.0
+            },
+            "spans": [
+              {
+                "text": "4",
+                "bbox": [
+                  375.6499938964844,
+                  113.03699493408203,
+                  380.0979919433594,
+                  123.74099731445312
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  375.6499938964844,
+                  121.58099365234375
+                ]
+              },
+              {
+                "text": " /",
+                "bbox": [
+                  380.0989990234375,
+                  110.90099334716797,
+                  385.63897705078125,
+                  124.28099060058594
+                ],
+                "font": "Arial Unicode MS",
+                "size": 10.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  380.0989990234375,
+                  121.58099365234375
+                ]
+              },
+              {
+                "text": "1",
+                "bbox": [
+                  385.6549987792969,
+                  113.03699493408203,
+                  390.1029968261719,
+                  123.74099731445312
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  385.6549987792969,
+                  121.58099365234375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 17,
+            "source_block_index": 5,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              466.8999938964844,
+              100.18097686767578,
+              508.2279968261719,
+              110.88497924804688
+            ],
+            "text": "Room Type",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Room Type",
+                "bbox": [
+                  466.8999938964844,
+                  100.18097686767578,
+                  508.2279968261719,
+                  110.88497924804688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  466.8999938964844,
+                  108.7249755859375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 18,
+            "source_block_index": 5,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              466.8999938964844,
+              110.89899444580078,
+              482.0039978027344,
+              121.60299682617188
+            ],
+            "text": "AP2",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "AP2",
+                "bbox": [
+                  466.8999938964844,
+                  110.89899444580078,
+                  482.0039978027344,
+                  121.60299682617188
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  466.8999938964844,
+                  119.4429931640625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 19,
+            "source_block_index": 6,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              124.79700469970703,
+              133.5919952392578,
+              135.50100708007812
+            ],
+            "text": "Arrival Date 28-11-25",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Arrival Date 28-11-25",
+                "bbox": [
+                  57.599998474121094,
+                  124.79700469970703,
+                  133.5919952392578,
+                  135.50100708007812
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  133.34100341796875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 20,
+            "source_block_index": 6,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              170.25,
+              124.79700469970703,
+              224.91400146484375,
+              135.50100708007812
+            ],
+            "text": "Departure Date",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Departure Date",
+                "bbox": [
+                  170.25,
+                  124.79700469970703,
+                  224.91400146484375,
+                  135.50100708007812
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  170.25,
+                  133.34100341796875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 21,
+            "source_block_index": 6,
+            "source_line_index": 2,
+            "type": 0,
+            "bbox": [
+              170.25,
+              135.5150146484375,
+              202.2659912109375,
+              146.21902465820312
+            ],
+            "text": "30-11-25",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "30-11-25",
+                "bbox": [
+                  170.25,
+                  135.5150146484375,
+                  202.2659912109375,
+                  146.21902465820312
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  170.25,
+                  144.05902099609375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 22,
+            "source_block_index": 6,
+            "source_line_index": 3,
+            "type": 0,
+            "bbox": [
+              296.04998779296875,
+              124.79700469970703,
+              348.04998779296875,
+              135.50100708007812
+            ],
+            "text": "Room Number",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Room Number",
+                "bbox": [
+                  296.04998779296875,
+                  124.79700469970703,
+                  348.04998779296875,
+                  135.50100708007812
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  296.04998779296875,
+                  133.34100341796875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 23,
+            "source_block_index": 6,
+            "source_line_index": 4,
+            "type": 0,
+            "bbox": [
+              375.6499938964844,
+              124.79700469970703,
+              436.9540100097656,
+              135.50100708007812
+            ],
+            "text": "Daily Rate (BHD)",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Daily Rate (BHD)",
+                "bbox": [
+                  375.6499938964844,
+                  124.79700469970703,
+                  436.9540100097656,
+                  135.50100708007812
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  375.6499938964844,
+                  133.34100341796875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 24,
+            "source_block_index": 6,
+            "source_line_index": 5,
+            "type": 0,
+            "bbox": [
+              375.6499938964844,
+              135.5150146484375,
+              404.5539855957031,
+              146.21902465820312
+            ],
+            "text": "115.000",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "115.000",
+                "bbox": [
+                  375.6499938964844,
+                  135.5150146484375,
+                  404.5539855957031,
+                  146.21902465820312
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  375.6499938964844,
+                  144.05902099609375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 25,
+            "source_block_index": 6,
+            "source_line_index": 6,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              146.73297119140625,
+              117.56800842285156,
+              157.43698120117188
+            ],
+            "text": "Check Out Time:",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Check Out Time:",
+                "bbox": [
+                  57.599998474121094,
+                  146.73297119140625,
+                  117.56800842285156,
+                  157.43698120117188
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  155.2769775390625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 26,
+            "source_block_index": 6,
+            "source_line_index": 7,
+            "type": 0,
+            "bbox": [
+              170.25,
+              146.73297119140625,
+              190.25799560546875,
+              157.43698120117188
+            ],
+            "text": "00:00",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "00:00",
+                "bbox": [
+                  170.25,
+                  146.73297119140625,
+                  190.25799560546875,
+                  157.43698120117188
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  170.25,
+                  155.2769775390625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 27,
+            "source_block_index": 6,
+            "source_line_index": 8,
+            "type": 0,
+            "bbox": [
+              296.04998779296875,
+              146.73297119140625,
+              352.0260009765625,
+              157.43698120117188
+            ],
+            "text": "Purpose of Visit",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Purpose of Visit",
+                "bbox": [
+                  296.04998779296875,
+                  146.73297119140625,
+                  352.0260009765625,
+                  157.43698120117188
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  296.04998779296875,
+                  155.2769775390625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 28,
+            "source_block_index": 6,
+            "source_line_index": 9,
+            "type": 0,
+            "bbox": [
+              394.8999938964844,
+              146.73297119140625,
+              506.0039978027344,
+              157.43698120117188
+            ],
+            "text": "Conference meeting, Exhibition",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Conference meeting, Exhibition",
+                "bbox": [
+                  394.8999938964844,
+                  146.73297119140625,
+                  506.0039978027344,
+                  157.43698120117188
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  394.8999938964844,
+                  155.2769775390625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 29,
+            "source_block_index": 6,
+            "source_line_index": 10,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              157.95098876953125,
+              165.15199279785156,
+              168.65499877929688
+            ],
+            "text": "Membership Program Number",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Membership Program Number",
+                "bbox": [
+                  57.599998474121094,
+                  157.95098876953125,
+                  165.15199279785156,
+                  168.65499877929688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  166.4949951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 30,
+            "source_block_index": 6,
+            "source_line_index": 11,
+            "type": 0,
+            "bbox": [
+              394.8999938964844,
+              157.95098876953125,
+              462.0039978027344,
+              168.65499877929688
+            ],
+            "text": "Leisure & Vacation",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Leisure & Vacation",
+                "bbox": [
+                  394.8999938964844,
+                  157.95098876953125,
+                  462.0039978027344,
+                  168.65499877929688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  394.8999938964844,
+                  166.4949951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 31,
+            "source_block_index": 7,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              394.8999938964844,
+              175.20098876953125,
+              448.6759948730469,
+              185.90499877929688
+            ],
+            "text": "Other Reasons",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Other Reasons",
+                "bbox": [
+                  394.8999938964844,
+                  175.20098876953125,
+                  448.6759948730469,
+                  185.90499877929688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  394.8999938964844,
+                  183.7449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 32,
+            "source_block_index": 8,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              192.45098876953125,
+              112.7040023803711,
+              203.15499877929688
+            ],
+            "text": "Home Address ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Home Address ",
+                "bbox": [
+                  57.599998474121094,
+                  192.45098876953125,
+                  112.7040023803711,
+                  203.15499877929688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  200.9949951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 33,
+            "source_block_index": 9,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              209.70098876953125,
+              81.13600158691406,
+              220.40499877929688
+            ],
+            "text": "Street ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Street ",
+                "bbox": [
+                  57.599998474121094,
+                  209.70098876953125,
+                  81.13600158691406,
+                  220.40499877929688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  218.2449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 34,
+            "source_block_index": 10,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              226.95098876953125,
+              73.5840072631836,
+              237.65499877929688
+            ],
+            "text": "City ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "City ",
+                "bbox": [
+                  57.599998474121094,
+                  226.95098876953125,
+                  73.5840072631836,
+                  237.65499877929688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  235.4949951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 35,
+            "source_block_index": 10,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              207.3000030517578,
+              226.95098876953125,
+              225.9560089111328,
+              237.65499877929688
+            ],
+            "text": "State",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "State",
+                "bbox": [
+                  207.3000030517578,
+                  226.95098876953125,
+                  225.9560089111328,
+                  237.65499877929688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  207.3000030517578,
+                  235.4949951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 36,
+            "source_block_index": 10,
+            "source_line_index": 2,
+            "type": 0,
+            "bbox": [
+              382.75,
+              226.95098876953125,
+              415.19000244140625,
+              237.65499877929688
+            ],
+            "text": "Zip Code",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Zip Code",
+                "bbox": [
+                  382.75,
+                  226.95098876953125,
+                  415.19000244140625,
+                  237.65499877929688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  382.75,
+                  235.4949951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 37,
+            "source_block_index": 11,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              244.20098876953125,
+              126.02400970458984,
+              254.90499877929688
+            ],
+            "text": "Country / Resident ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Country / Resident ",
+                "bbox": [
+                  57.599998474121094,
+                  244.20098876953125,
+                  126.02400970458984,
+                  254.90499877929688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  252.7449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 38,
+            "source_block_index": 11,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              207.3000030517578,
+              244.20098876953125,
+              246.84400939941406,
+              254.90499877929688
+            ],
+            "text": "Nationality ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Nationality ",
+                "bbox": [
+                  207.3000030517578,
+                  244.20098876953125,
+                  246.84400939941406,
+                  254.90499877929688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  207.3000030517578,
+                  252.7449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 39,
+            "source_block_index": 11,
+            "source_line_index": 2,
+            "type": 0,
+            "bbox": [
+              382.75,
+              244.20098876953125,
+              404.9580078125,
+              254.90499877929688
+            ],
+            "text": "Email ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Email ",
+                "bbox": [
+                  382.75,
+                  244.20098876953125,
+                  404.9580078125,
+                  254.90499877929688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  382.75,
+                  252.7449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 40,
+            "source_block_index": 12,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              261.45098876953125,
+              132.71998596191406,
+              272.1549987792969
+            ],
+            "text": "Telephone Number 0",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Telephone Number 0",
+                "bbox": [
+                  57.599998474121094,
+                  261.45098876953125,
+                  132.71998596191406,
+                  272.1549987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  269.9949951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 41,
+            "source_block_index": 12,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              207.3000030517578,
+              261.45098876953125,
+              321.4840087890625,
+              272.1549987792969
+            ],
+            "text": "Passport Number / Identity Card",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Passport Number / Identity Card",
+                "bbox": [
+                  207.3000030517578,
+                  261.45098876953125,
+                  321.4840087890625,
+                  272.1549987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  207.3000030517578,
+                  269.9949951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 42,
+            "source_block_index": 12,
+            "source_line_index": 2,
+            "type": 0,
+            "bbox": [
+              382.75,
+              261.45098876953125,
+              432.9580078125,
+              272.1549987792969
+            ],
+            "text": "Place of Issue",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Place of Issue",
+                "bbox": [
+                  382.75,
+                  261.45098876953125,
+                  432.9580078125,
+                  272.1549987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  382.75,
+                  269.9949951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 43,
+            "source_block_index": 13,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              278.70098876953125,
+              94.0479965209961,
+              289.4049987792969
+            ],
+            "text": "Company ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Company ",
+                "bbox": [
+                  57.599998474121094,
+                  278.70098876953125,
+                  94.0479965209961,
+                  289.4049987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  287.2449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 44,
+            "source_block_index": 13,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              382.75,
+              278.70098876953125,
+              429.38201904296875,
+              289.4049987792969
+            ],
+            "text": "Date of Birth ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Date of Birth ",
+                "bbox": [
+                  382.75,
+                  278.70098876953125,
+                  429.38201904296875,
+                  289.4049987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  382.75,
+                  287.2449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 45,
+            "source_block_index": 14,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              295.95098876953125,
+              118.04000091552734,
+              306.6549987792969
+            ],
+            "text": "Payment Method",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Payment Method",
+                "bbox": [
+                  57.599998474121094,
+                  295.95098876953125,
+                  118.04000091552734,
+                  306.6549987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  304.4949951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 46,
+            "source_block_index": 15,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              76.69999694824219,
+              313.20098876953125,
+              95.37199401855469,
+              323.9049987792969
+            ],
+            "text": "Cash",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Cash",
+                "bbox": [
+                  76.69999694824219,
+                  313.20098876953125,
+                  95.37199401855469,
+                  323.9049987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  76.69999694824219,
+                  321.7449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 47,
+            "source_block_index": 15,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              157.64999389648438,
+              313.20098876953125,
+              173.20199584960938,
+              323.9049987792969
+            ],
+            "text": "Visa",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Visa",
+                "bbox": [
+                  157.64999389648438,
+                  313.20098876953125,
+                  173.20199584960938,
+                  323.9049987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  157.64999389648438,
+                  321.7449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 48,
+            "source_block_index": 15,
+            "source_line_index": 2,
+            "type": 0,
+            "bbox": [
+              241.5500030517578,
+              313.20098876953125,
+              265.989990234375,
+              323.9049987792969
+            ],
+            "text": "Master",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Master",
+                "bbox": [
+                  241.5500030517578,
+                  313.20098876953125,
+                  265.989990234375,
+                  323.9049987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  241.5500030517578,
+                  321.7449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 49,
+            "source_block_index": 15,
+            "source_line_index": 3,
+            "type": 0,
+            "bbox": [
+              324.75,
+              313.20098876953125,
+              389.6300048828125,
+              323.9049987792969
+            ],
+            "text": "American Express",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "American Express",
+                "bbox": [
+                  324.75,
+                  313.20098876953125,
+                  389.6300048828125,
+                  323.9049987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  324.75,
+                  321.7449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 50,
+            "source_block_index": 15,
+            "source_line_index": 4,
+            "type": 0,
+            "bbox": [
+              430.20001220703125,
+              313.20098876953125,
+              455.52801513671875,
+              323.9049987792969
+            ],
+            "text": "Diners ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Diners ",
+                "bbox": [
+                  430.20001220703125,
+                  313.20098876953125,
+                  455.52801513671875,
+                  323.9049987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  430.20001220703125,
+                  321.7449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 51,
+            "source_block_index": 15,
+            "source_line_index": 5,
+            "type": 0,
+            "bbox": [
+              491.75,
+              313.20098876953125,
+              515.7420043945312,
+              323.9049987792969
+            ],
+            "text": "Others",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Others",
+                "bbox": [
+                  491.75,
+                  313.20098876953125,
+                  515.7420043945312,
+                  323.9049987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  491.75,
+                  321.7449951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 52,
+            "source_block_index": 16,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              330.45098876953125,
+              86.02400207519531,
+              341.1549987792969
+            ],
+            "text": "Others: ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Others: ",
+                "bbox": [
+                  57.599998474121094,
+                  330.45098876953125,
+                  86.02400207519531,
+                  341.1549987792969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  338.9949951171875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 53,
+            "source_block_index": 17,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              347.9580078125,
+              144.62400817871094,
+              356.885986328125
+            ],
+            "text": "Terms and Conditions:",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Bold"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Terms and Conditions:",
+                "bbox": [
+                  57.599998474121094,
+                  347.9580078125,
+                  144.62400817871094,
+                  356.885986328125
+                ],
+                "font": "Arial Bold",
+                "size": 8.0,
+                "flags": 20,
+                "color": 0,
+                "ascender": 0.9049999713897705,
+                "descender": -0.210999995470047,
+                "origin": [
+                  57.599998474121094,
+                  355.197998046875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 54,
+            "source_block_index": 17,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              57.599998474121094,
+              356.8999938964844,
+              358.4000244140625,
+              367.60400390625
+            ],
+            "text": "I/We confirm the accuracy of the above information and agree to the following terms. ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "I/We confirm the accuracy of the above information and agree to the following terms. ",
+                "bbox": [
+                  57.599998474121094,
+                  356.8999938964844,
+                  358.4000244140625,
+                  367.60400390625
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  57.599998474121094,
+                  365.4440002441406
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 55,
+            "source_block_index": 17,
+            "source_line_index": 2,
+            "type": 0,
+            "bbox": [
+              75.5999984741211,
+              367.61798095703125,
+              82.26399993896484,
+              378.3219909667969
+            ],
+            "text": "1.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "1.",
+                "bbox": [
+                  75.5999984741211,
+                  367.61798095703125,
+                  82.26399993896484,
+                  378.3219909667969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  75.5999984741211,
+                  376.1619873046875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 56,
+            "source_block_index": 17,
+            "source_line_index": 3,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              367.61798095703125,
+              479.73602294921875,
+              378.3219909667969
+            ],
+            "text": "Check-in is at 3.00 pm, and check-out is at 12.00 pm. Early check-in/late check-out may incur additional fees.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Check-in is at 3.00 pm, and check-out is at 12.00 pm. Early check-in/late check-out may incur additional fees.",
+                "bbox": [
+                  93.5999984741211,
+                  367.61798095703125,
+                  479.73602294921875,
+                  378.3219909667969
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  376.1619873046875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 57,
+            "source_block_index": 17,
+            "source_line_index": 4,
+            "type": 0,
+            "bbox": [
+              75.5999984741211,
+              378.33599853515625,
+              82.26399993896484,
+              389.0400085449219
+            ],
+            "text": "2.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "2.",
+                "bbox": [
+                  75.5999984741211,
+                  378.33599853515625,
+                  82.26399993896484,
+                  389.0400085449219
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  75.5999984741211,
+                  386.8800048828125
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 58,
+            "source_block_index": 17,
+            "source_line_index": 5,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              378.33599853515625,
+              304.66400146484375,
+              389.0400085449219
+            ],
+            "text": "Extended stays are subject to availability and current rates. ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Extended stays are subject to availability and current rates. ",
+                "bbox": [
+                  93.5999984741211,
+                  378.33599853515625,
+                  304.66400146484375,
+                  389.0400085449219
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  386.8800048828125
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 59,
+            "source_block_index": 17,
+            "source_line_index": 6,
+            "type": 0,
+            "bbox": [
+              75.5999984741211,
+              389.0539855957031,
+              82.26399993896484,
+              399.75799560546875
+            ],
+            "text": "3.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "3.",
+                "bbox": [
+                  75.5999984741211,
+                  389.0539855957031,
+                  82.26399993896484,
+                  399.75799560546875
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  75.5999984741211,
+                  397.5979919433594
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 60,
+            "source_block_index": 17,
+            "source_line_index": 7,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              389.0539855957031,
+              402.0240173339844,
+              399.75799560546875
+            ],
+            "text": "Early departure may result in a one-night charge or more, depending on booking terms.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Early departure may result in a one-night charge or more, depending on booking terms.",
+                "bbox": [
+                  93.5999984741211,
+                  389.0539855957031,
+                  402.0240173339844,
+                  399.75799560546875
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  397.5979919433594
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 61,
+            "source_block_index": 17,
+            "source_line_index": 8,
+            "type": 0,
+            "bbox": [
+              75.5999984741211,
+              399.7720031738281,
+              82.26399993896484,
+              410.47601318359375
+            ],
+            "text": "4.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "4.",
+                "bbox": [
+                  75.5999984741211,
+                  399.7720031738281,
+                  82.26399993896484,
+                  410.47601318359375
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  75.5999984741211,
+                  408.3160095214844
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 62,
+            "source_block_index": 17,
+            "source_line_index": 9,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              399.7720031738281,
+              553.0320434570312,
+              410.47601318359375
+            ],
+            "text": "The Hotel is not liable for valuables that have misplaced, stolen or left in guest rooms, meeting rooms, public areas, family or hotel",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "The Hotel is not liable for valuables that have misplaced, stolen or left in guest rooms, meeting rooms, public areas, family or hotel",
+                "bbox": [
+                  93.5999984741211,
+                  399.7720031738281,
+                  553.0320434570312,
+                  410.47601318359375
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  408.3160095214844
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 63,
+            "source_block_index": 17,
+            "source_line_index": 10,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              410.489990234375,
+              126.9280014038086,
+              421.1940002441406
+            ],
+            "text": "vehicles. ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "vehicles. ",
+                "bbox": [
+                  93.5999984741211,
+                  410.489990234375,
+                  126.9280014038086,
+                  421.1940002441406
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  419.03399658203125
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 64,
+            "source_block_index": 17,
+            "source_line_index": 11,
+            "type": 0,
+            "bbox": [
+              75.5999984741211,
+              421.2080078125,
+              82.26399993896484,
+              431.9120178222656
+            ],
+            "text": "5.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "5.",
+                "bbox": [
+                  75.5999984741211,
+                  421.2080078125,
+                  82.26399993896484,
+                  431.9120178222656
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  75.5999984741211,
+                  429.75201416015625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 65,
+            "source_block_index": 17,
+            "source_line_index": 12,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              421.2080078125,
+              336.656005859375,
+              431.9120178222656
+            ],
+            "text": "I/We agree to follow Hotel policies and all applicable laws in Bahrain.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "I/We agree to follow Hotel policies and all applicable laws in Bahrain.",
+                "bbox": [
+                  93.5999984741211,
+                  421.2080078125,
+                  336.656005859375,
+                  431.9120178222656
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  429.75201416015625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 66,
+            "source_block_index": 17,
+            "source_line_index": 13,
+            "type": 0,
+            "bbox": [
+              75.5999984741211,
+              431.9259948730469,
+              82.26399993896484,
+              442.6300048828125
+            ],
+            "text": "6.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "6.",
+                "bbox": [
+                  75.5999984741211,
+                  431.9259948730469,
+                  82.26399993896484,
+                  442.6300048828125
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  75.5999984741211,
+                  440.4700012207031
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 67,
+            "source_block_index": 17,
+            "source_line_index": 14,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              431.9259948730469,
+              539.7520141601562,
+              442.6300048828125
+            ],
+            "text": "I/We are liable for damage caused to the hotel or guest property caused by myself/ourselves or my/our dependents, guests or ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "I/We are liable for damage caused to the hotel or guest property caused by myself/ourselves or my/our dependents, guests or ",
+                "bbox": [
+                  93.5999984741211,
+                  431.9259948730469,
+                  539.7520141601562,
+                  442.6300048828125
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  440.4700012207031
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 68,
+            "source_block_index": 17,
+            "source_line_index": 15,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              442.64398193359375,
+              328.656005859375,
+              453.3479919433594
+            ],
+            "text": "visitor. Smoking in non-smoking rooms will result in a cleaning fee.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "visitor. Smoking in non-smoking rooms will result in a cleaning fee.",
+                "bbox": [
+                  93.5999984741211,
+                  442.64398193359375,
+                  328.656005859375,
+                  453.3479919433594
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  451.18798828125
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 69,
+            "source_block_index": 17,
+            "source_line_index": 16,
+            "type": 0,
+            "bbox": [
+              75.5999984741211,
+              453.36199951171875,
+              82.26399993896484,
+              464.0660095214844
+            ],
+            "text": "7.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "7.",
+                "bbox": [
+                  75.5999984741211,
+                  453.36199951171875,
+                  82.26399993896484,
+                  464.0660095214844
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  75.5999984741211,
+                  461.906005859375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 70,
+            "source_block_index": 17,
+            "source_line_index": 17,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              453.36199951171875,
+              549.0560302734375,
+              464.0660095214844
+            ],
+            "text": "All charges incurred during my/our stay, including room rate, taxes, damages, services or charges posted to the room folio, must ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "All charges incurred during my/our stay, including room rate, taxes, damages, services or charges posted to the room folio, must ",
+                "bbox": [
+                  93.5999984741211,
+                  453.36199951171875,
+                  549.0560302734375,
+                  464.0660095214844
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  461.906005859375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 71,
+            "source_block_index": 17,
+            "source_line_index": 18,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              464.0799865722656,
+              406.3920593261719,
+              474.78399658203125
+            ],
+            "text": "be settled before check-out. I/We authorize the use of the credit card on file for payment.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "be settled before check-out. I/We authorize the use of the credit card on file for payment.",
+                "bbox": [
+                  93.5999984741211,
+                  464.0799865722656,
+                  406.3920593261719,
+                  474.78399658203125
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  472.6239929199219
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 72,
+            "source_block_index": 17,
+            "source_line_index": 19,
+            "type": 0,
+            "bbox": [
+              75.5999984741211,
+              474.7980041503906,
+              82.26399993896484,
+              485.50201416015625
+            ],
+            "text": "8.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "8.",
+                "bbox": [
+                  75.5999984741211,
+                  474.7980041503906,
+                  82.26399993896484,
+                  485.50201416015625
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  75.5999984741211,
+                  483.3420104980469
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 73,
+            "source_block_index": 17,
+            "source_line_index": 20,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              474.7980041503906,
+              223.82400512695312,
+              485.50201416015625
+            ],
+            "text": "Personal cheques are not accepted. ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Personal cheques are not accepted. ",
+                "bbox": [
+                  93.5999984741211,
+                  474.7980041503906,
+                  223.82400512695312,
+                  485.50201416015625
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  483.3420104980469
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 74,
+            "source_block_index": 17,
+            "source_line_index": 21,
+            "type": 0,
+            "bbox": [
+              75.5999984741211,
+              485.5159912109375,
+              82.26399993896484,
+              496.2200012207031
+            ],
+            "text": "9.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "9.",
+                "bbox": [
+                  75.5999984741211,
+                  485.5159912109375,
+                  82.26399993896484,
+                  496.2200012207031
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  75.5999984741211,
+                  494.05999755859375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 75,
+            "source_block_index": 17,
+            "source_line_index": 22,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              485.5159912109375,
+              451.2800598144531,
+              496.2200012207031
+            ],
+            "text": "I/We remain personally liable for all charges incurred during my/our stay, even if a third party is billed.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "I/We remain personally liable for all charges incurred during my/our stay, even if a third party is billed.",
+                "bbox": [
+                  93.5999984741211,
+                  485.5159912109375,
+                  451.2800598144531,
+                  496.2200012207031
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  494.05999755859375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 76,
+            "source_block_index": 17,
+            "source_line_index": 23,
+            "type": 0,
+            "bbox": [
+              75.5999984741211,
+              496.2340087890625,
+              86.71199798583984,
+              506.9380187988281
+            ],
+            "text": "10.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "10.",
+                "bbox": [
+                  75.5999984741211,
+                  496.2340087890625,
+                  86.71199798583984,
+                  506.9380187988281
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  75.5999984741211,
+                  504.77801513671875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 77,
+            "source_block_index": 17,
+            "source_line_index": 24,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              496.2340087890625,
+              552.6000366210938,
+              506.9380187988281
+            ],
+            "text": "I/We are solely responsible for supervising minors in my/our care and will not hold the Hotel liable for any incidents that may arise ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "I/We are solely responsible for supervising minors in my/our care and will not hold the Hotel liable for any incidents that may arise ",
+                "bbox": [
+                  93.5999984741211,
+                  496.2340087890625,
+                  552.6000366210938,
+                  506.9380187988281
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  504.77801513671875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 78,
+            "source_block_index": 17,
+            "source_line_index": 25,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              506.9530029296875,
+              200.22402954101562,
+              517.656982421875
+            ],
+            "text": "from improper use of facilities.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "from improper use of facilities.",
+                "bbox": [
+                  93.5999984741211,
+                  506.9530029296875,
+                  200.22402954101562,
+                  517.656982421875
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  515.4970092773438
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 79,
+            "source_block_index": 17,
+            "source_line_index": 26,
+            "type": 0,
+            "bbox": [
+              75.5999984741211,
+              517.6709594726562,
+              86.71199798583984,
+              528.3749389648438
+            ],
+            "text": "11.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "11.",
+                "bbox": [
+                  75.5999984741211,
+                  517.6709594726562,
+                  86.71199798583984,
+                  528.3749389648438
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  75.5999984741211,
+                  526.2149658203125
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 80,
+            "source_block_index": 17,
+            "source_line_index": 27,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              517.6709594726562,
+              536.10302734375,
+              528.3749389648438
+            ],
+            "text": "I/We consent to the Hotel€™s collection, storage, use and sharing of my/our personal information for reservation processing, ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 3,
+              "fonts": [
+                "Arial Unicode MS",
+                "Times New Roman"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "I/We consent to the Hotel",
+                "bbox": [
+                  93.5999984741211,
+                  517.6709594726562,
+                  183.3360137939453,
+                  528.3749389648438
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  526.2149658203125
+                ]
+              },
+              {
+                "text": "€™",
+                "bbox": [
+                  183.4239959716797,
+                  519.0859985351562,
+                  195.25599670410156,
+                  527.9420166015625
+                ],
+                "font": "Times New Roman",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 0.890999972820282,
+                "descender": -0.2160000056028366,
+                "origin": [
+                  183.4239959716797,
+                  526.2139892578125
+                ]
+              },
+              {
+                "text": "s collection, storage, use and sharing of my/our personal information for reservation processing, ",
+                "bbox": [
+                  195.26300048828125,
+                  517.6709594726562,
+                  536.10302734375,
+                  528.3749389648438
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  195.26300048828125,
+                  526.2149658203125
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 81,
+            "source_block_index": 17,
+            "source_line_index": 28,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              528.3880004882812,
+              537.9520263671875,
+              539.0919799804688
+            ],
+            "text": "services, communication about my/our stay, promotions and future offers, improving Hotel facilities and compliance with legal ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "services, communication about my/our stay, promotions and future offers, improving Hotel facilities and compliance with legal ",
+                "bbox": [
+                  93.5999984741211,
+                  528.3880004882812,
+                  537.9520263671875,
+                  539.0919799804688
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  536.9320068359375
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 82,
+            "source_block_index": 17,
+            "source_line_index": 29,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              539.1069946289062,
+              548.632080078125,
+              549.8109741210938
+            ],
+            "text": "requirements. This includes sharing information with affiliates, subsidiaries and partners. All personal information will be handled ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "requirements. This includes sharing information with affiliates, subsidiaries and partners. All personal information will be handled ",
+                "bbox": [
+                  93.5999984741211,
+                  539.1069946289062,
+                  548.632080078125,
+                  549.8109741210938
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  547.6510009765625
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 83,
+            "source_block_index": 17,
+            "source_line_index": 30,
+            "type": 0,
+            "bbox": [
+              93.5999984741211,
+              549.8250122070312,
+              286.8880310058594,
+              560.5289916992188
+            ],
+            "text": "in line with our Privacy Policy available on our website.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "in line with our Privacy Policy available on our website.",
+                "bbox": [
+                  93.5999984741211,
+                  549.8250122070312,
+                  286.8880310058594,
+                  560.5289916992188
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  93.5999984741211,
+                  558.3690185546875
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 84,
+            "source_block_index": 17,
+            "source_line_index": 31,
+            "type": 0,
+            "bbox": [
+              76.69999694824219,
+              561.0419921875,
+              350.4200134277344,
+              571.7459716796875
+            ],
+            "text": "Check here if I/we do not wish to receive these promotional communications. ",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Check here if I/we do not wish to receive these promotional communications. ",
+                "bbox": [
+                  76.69999694824219,
+                  561.0419921875,
+                  350.4200134277344,
+                  571.7459716796875
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  76.69999694824219,
+                  569.5859985351562
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 85,
+            "source_block_index": 17,
+            "source_line_index": 32,
+            "type": 0,
+            "bbox": [
+              76.69999694824219,
+              571.760986328125,
+              450.4120178222656,
+              582.4649658203125
+            ],
+            "text": "By signing below, I/we confirm that I/we have read, understood and agreed to these terms and conditions.",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "By signing below, I/we confirm that I/we have read, understood and agreed to these terms and conditions.",
+                "bbox": [
+                  76.69999694824219,
+                  571.760986328125,
+                  450.4120178222656,
+                  582.4649658203125
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  76.69999694824219,
+                  580.3049926757812
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 86,
+            "source_block_index": 18,
+            "source_line_index": 0,
+            "type": 0,
+            "bbox": [
+              106.46900177001953,
+              598.97900390625,
+              164.23699951171875,
+              609.6829833984375
+            ],
+            "text": "Guest Signature",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Guest Signature",
+                "bbox": [
+                  106.46900177001953,
+                  598.97900390625,
+                  164.23699951171875,
+                  609.6829833984375
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  106.46900177001953,
+                  607.5230102539062
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 87,
+            "source_block_index": 18,
+            "source_line_index": 1,
+            "type": 0,
+            "bbox": [
+              280.82501220703125,
+              598.97900390625,
+              335.0250244140625,
+              609.6829833984375
+            ],
+            "text": "GSO Signature",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "GSO Signature",
+                "bbox": [
+                  280.82501220703125,
+                  598.97900390625,
+                  335.0250244140625,
+                  609.6829833984375
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  280.82501220703125,
+                  607.5230102539062
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 88,
+            "source_block_index": 18,
+            "source_line_index": 2,
+            "type": 0,
+            "bbox": [
+              435.2179870605469,
+              598.97900390625,
+              521.8820190429688,
+              609.6829833984375
+            ],
+            "text": "Duty Manager Signature",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Unicode MS"
+              ],
+              "min_font_size": 8.0,
+              "max_font_size": 8.0
+            },
+            "spans": [
+              {
+                "text": "Duty Manager Signature",
+                "bbox": [
+                  435.2179870605469,
+                  598.97900390625,
+                  521.8820190429688,
+                  609.6829833984375
+                ],
+                "font": "Arial Unicode MS",
+                "size": 8.0,
+                "flags": 4,
+                "color": 0,
+                "ascender": 1.0679999589920044,
+                "descender": -0.27000001072883606,
+                "origin": [
+                  435.2179870605469,
+                  607.5230102539062
+                ]
+              }
+            ]
+          },
+          {
+            "block_index": 89,
+            "source_block_index": 18,
+            "source_line_index": 3,
+            "type": 0,
+            "bbox": [
+              245.61500549316406,
+              610.52001953125,
+              360.5049133300781,
+              621.6799926757812
+            ],
+            "text": "Enjoy your stay with us!",
+            "wmode": 0,
+            "dir": [
+              1.0,
+              0.0
+            ],
+            "stats": {
+              "span_count": 1,
+              "fonts": [
+                "Arial Bold"
+              ],
+              "min_font_size": 10.0,
+              "max_font_size": 10.0
+            },
+            "spans": [
+              {
+                "text": "Enjoy your stay with us!",
+                "bbox": [
+                  245.61500549316406,
+                  610.52001953125,
+                  360.5049133300781,
+                  621.6799926757812
+                ],
+                "font": "Arial Bold",
+                "size": 10.0,
+                "flags": 20,
+                "color": 0,
+                "ascender": 0.9049999713897705,
+                "descender": -0.210999995470047,
+                "origin": [
+                  245.61500549316406,
+                  619.5700073242188
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

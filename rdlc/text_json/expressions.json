@@ -1,0 +1,149 @@
+{
+    "fields": [
+      {
+        "label_keywords": ["Room Number", "Room No", "Room No.", "Chambre", "Habitacion", "Zimmer"],
+        "expression": "=Lookup(\"RoomNumber\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "RoomNumber"
+      },
+      {
+        "label_keywords": ["Arrival Date", "Arrival", "Check In", "Check-In", "Date d'arrivee", "Fecha de entrada", "Fecha entrada"],
+        "expression": "=Lookup(\"ArrivalDate\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "ArrivalDate"
+      },
+      {
+        "label_keywords": ["Confirmation No", "Confirmation No.", "Confirmation Number", "Reservation No", "Reservation No.", "Reservation Number", "Booking No", "Booking No.", "Booking Reference"],
+        "expression": "=Lookup(\"ReservationNumber\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "ReservationNumber"
+      },
+      {
+        "label_keywords": ["Departure Date", "Departure", "Check Out", "Check-Out", "Date de depart", "Fecha de salida", "Fecha salida"],
+        "expression": "=Lookup(\"DepartureDate\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "DepartureDate"
+      },
+      {
+        "label_keywords": ["Room Type", "Room Category", "Room Class", "Type de chambre", "Tipo de habitacion"],
+        "expression": "=Lookup(\"RoomTypeShortDescription\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "RoomTypeShortDescription"
+      },
+      {
+        "label_keywords": ["Daily Rate", "Room Rate", "Rate", "Rate per Night", "Nightly Rate", "Tarif", "Tarifa"],
+        "expression": "=Lookup(\"RateCodeAmount\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "RateCodeAmount"
+      },
+      {
+        "label_keywords": ["No. of Adults", "No. Adults", "Number of Adults", "Adults", "Adults Count", "No. Adultes", "Adultos"],
+        "expression": "=Lookup(\"AdultsCount\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "AdultsCount"
+      },
+      {
+        "label_keywords": ["No. of Children", "No. Children", "Number of Children", "Children", "Children Count", "Enfants", "Ninos"],
+        "expression": "=Lookup(\"ChildrenCount\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "ChildrenCount"
+      },
+      {
+        "label_keywords": ["Title", "Salutation", "Mr", "Mrs", "Ms", "Dr", "Titre", "Tratamiento"],
+        "expression": "=Lookup(\"Title\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "Title"
+      },
+      {
+        "label_keywords": ["Surname", "Last Name", "Family Name", "Nom de famille", "Apellido", "Primer apellido", "Segundo apellido", "Nachname"],
+        "expression": "=Lookup(\"LastName\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "LastName"
+      },
+      {
+        "label_keywords": ["First Name", "Given Name", "Forename", "Prenom", "Nombre", "Vorname"],
+        "expression": "=Lookup(\"FirstName\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "FirstName"
+      },
+      {
+        "label_keywords": ["Passport No", "Passport No.", "Passport Number", "ID Number", "Document Number", "Numero de pasaporte", "Numero de documento de identidad", "Numero documento"],
+        "expression": "=Lookup(\"PassportNumber\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "PassportNumber"
+      },
+      {
+        "label_keywords": ["Date of Issue", "Issue Date", "Issued Date", "Expedition Date", "Fecha de emision", "Fecha expedicion del document"],
+        "expression": "=Lookup(\"IssueDate\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "IssueDate"
+      },
+      {
+        "label_keywords": ["Place of Issue", "Place of Issuance", "Issued At", "Issuing Place", "Lugar de emision"],
+        "expression": "=Lookup(\"IssuingPlace\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "IssuingPlace"
+      },
+      {
+        "label_keywords": ["Nationality", "Citizenship", "Pais de nacionalidad", "Nationalite", "Staatsangehorigkeit"],
+        "expression": "=Lookup(\"Nationality\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "Nationality"
+      },
+      {
+        "label_keywords": ["Address", "Home Address", "Street Address", "Adresse", "Direccion", "Anschrift"],
+        "expression": "=Lookup(\"address1\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "address1"
+      },
+      {
+        "label_keywords": ["Date of Birth", "Birth Date", "DOB", "Birthday", "Fecha de nacimiento", "Date de naissance", "Geburtsdatum"],
+        "expression": "=Lookup(\"BirthDate\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "BirthDate"
+      },
+      {
+        "label_keywords": ["Membership Type", "Loyalty Type", "Reward Type", "Member Type", "IHG Reward", "Loyalty Program"],
+        "expression": "=Lookup(\"MembershipType\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "MembershipType"
+      },
+      {
+        "label_keywords": ["Membership No", "Membership No.", "Membership Number", "Member No", "Loyalty No", "Loyalty Number", "Reward No", "IHG Reward No"],
+        "expression": "=Lookup(\"MembershipNumber\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "MembershipNumber"
+      },
+      {
+        "label_keywords": ["Company", "Company Name", "Organisation", "Organization", "Empresa", "Societe", "Firma"],
+        "expression": "=Lookup(\"CompanyName\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "CompanyName"
+      },
+      {
+        "label_keywords": ["Designation", "Profession", "Job Title", "Occupation", "Position", "Profesion"],
+        "expression": "=Lookup(\"Profession\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "Profession"
+      },
+      {
+        "label_keywords": ["Remarks", "Comments", "Special Requests", "Notes", "Special Comments", "Observations", "Comentarios"],
+        "expression": "=Lookup(\"Remarks\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "Remarks"
+      },
+      {
+        "label_keywords": ["Country", "Country of Residence", "Pays", "Pais", "Land"],
+        "expression": "=Lookup(\"zip\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "Country"
+      },
+      {
+        "label_keywords": ["State", "Province", "Region", "County", "Provincia", "Etat"],
+        "expression": "=Lookup(\"state\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "State"
+      },
+      {
+        "label_keywords": ["Phone", "Phone Number", "Telephone", "Mobile", "Mobile Number", "Tel", "Tel.", "Contact Number", "Telefono", "Handy"],
+        "expression": "=Lookup(\"PhoneNumber\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "PhoneNumber"
+      },
+      {
+        "label_keywords": ["Email", "Email Address", "E-mail", "E-Mail", "Correo electronico", "Adresse email"],
+        "expression": "=Lookup(\"email\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "email"
+      },
+      {
+        "label_keywords": ["Zip Code", "Zip", "Postal Code", "Post Code", "Postcode", "PIN Code", "Code postal", "Codigo postal", "PLZ"],
+        "expression": "=Lookup(\"zip\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "zip"
+      },
+      {
+        "label_keywords": ["City", "Town", "Ville", "Ciudad", "Municipio", "Ort"],
+        "expression": "=Lookup(\"city\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "city"
+      },
+      {
+        "label_keywords": ["Guest Name", "Full Name"],
+        "expression": "=Lookup(\"GuestName\", Fields!FieldName.Value, Fields!FieldValue.Value, \"DataSet1\")",
+        "field_key": "GuestName"
+      }
+    ]
+  }

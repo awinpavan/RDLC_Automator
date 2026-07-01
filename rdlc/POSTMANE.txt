@@ -1,0 +1,56 @@
+Room Number: =Lookup("RoomNumber", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Arrival Date: =Lookup("ArrivalDate",Fields!FieldName.Value,Fields!FieldValue.Value, "DataSet1")
+
+Confirmation No || Reservation No.: =Lookup("ReservationNumber", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Departure Date: =Lookup("DepartureDate",Fields!FieldName.Value,Fields!FieldValue.Value, "DataSet1") 
+
+Room Type: =Lookup("RoomTypeShortDescription", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Daily rate: =Lookup("RateCodeAmount", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+No. Of Adults: =Lookup("AdultsCount",Fields!FieldName.Value,Fields!FieldValue.Value, "DataSet1")
+
+No. Of Children: =Lookup("ChildrenCount", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Title: =Lookup("Title", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Surname || Last Nmae: =Lookup("FirstName", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+First Name: =Lookup("FirstName", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Passport No:=Lookup("PassportNumber",Fields!FieldName.Value,Fields!FieldValue.Value, "DataSet1")
+
+Date of Issue: =Lookup("IssueDate", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Place Of Issue: =Lookup("IssuingPlace", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Nationality: =Lookup("Nationality",Fields!FieldName.Value,Fields!FieldValue.Value, "DataSet1")
+
+Address || Home Address: =Lookup("address1",Fields!FieldName.Value,Fields!FieldValue.Value, "DataSet1")
+
+Date Of Birth: =Lookup("BirthDate",Fields!FieldName.Value,Fields!FieldValue.Value, "DataSet1")
+
+Membership Type: =Lookup("MembershipType", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Member ship No.: =Lookup("MembershipNumber", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Company: =Lookup("CompanyName", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Designation: =Lookup("Profession", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Remarks: =Lookup("Remarks", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Country: =Lookup("zip",Fields!FieldName.Value,Fields!FieldValue.Value, "DataSet1")
+
+State: =Lookup("state", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Phone Number: =Lookup("PhoneNumber", Fields!FieldName.Value, Fields!FieldValue.Value, "DataSet1")
+
+Email: =Lookup("email",Fields!FieldName.Value,Fields!FieldValue.Value, "DataSet1")
+
+Zip Code:=Lookup("zip",Fields!FieldName.Value,Fields!FieldValue.Value, "DataSet1")
+
+City: =Lookup("city",Fields!FieldName.Value,Fields!FieldValue.Value, "DataSet1")
+

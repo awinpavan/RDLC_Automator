@@ -1,0 +1,20 @@
+{
+  "ReportItems": [
+    {
+      "Name": "Textbox5",
+      "Text": "Yes"
+    },
+    {
+      "Name": "Textbox7",
+      "Text": "No"
+    },
+    {
+      "Name": "Textbox16",
+      "Text": "Tak"
+    },
+    {
+      "Name": "Textbox17",
+      "Text": "Nie"
+    }
+  ]
+}
